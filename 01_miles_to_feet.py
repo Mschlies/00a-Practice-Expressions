@@ -12,3 +12,5 @@
 # Expected output # Student should look at the following comments and compare to printed output.
 
 #68640
+
+print 13*5280
